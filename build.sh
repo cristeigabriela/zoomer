@@ -1,0 +1,1 @@
+gcc main.c -lSDL2 -lX11 -lm -Wall -Wextra -Wpedantic -fanalyzer -O3
